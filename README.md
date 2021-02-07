@@ -1,6 +1,8 @@
-Versions of Delphi include Midas.dll (If you don't have an installed version of Delphi, 
-In Project1.exe Midas.dll is included in the executable
-You can use any xml file; just put it in the current directory of "Project1"
+All later versions of Delphi include Midas.dll 
+
+In Project1.exe Midas.dll is included in the executable so you don't neer to install Delhpi to use this application
+
+You can use any xml file; just put it in the current directory of "Project1.exe"
 
 This programm can be used to test any Screenreader (NVDA, Jaws and Supernova)
 
