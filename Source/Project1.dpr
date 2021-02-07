@@ -1,6 +1,7 @@
 program Project1;
 
 uses
+  MidasLib,
   Vcl.Forms,
   Unit1 in 'Unit1.pas' {Form1};
 
